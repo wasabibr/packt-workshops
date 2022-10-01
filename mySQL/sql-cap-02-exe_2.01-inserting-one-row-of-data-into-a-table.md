@@ -10,12 +10,6 @@ _Fonte: https://courses.packtpub.com/courses/take/sql/texts/9835434-exercise-2-0
 
 Neste exercício, implementaremos a instrução SQL INSERT INTO...VALUES para adicionar registros a uma tabela. Primeiro, criaremos um banco de dados EMPLOYEE e, em seguida, adicionaremos uma tabela a ele. Em seguida, inseriremos valores na tabela com a instrução INSERT SQL e, finalmente, exibiremos o conteúdo da tabela. Para isso, vamos seguir os seguintes passos:
 
-'''javascript
-
-
-
-'''
-
 Crie um banco de dados **EMPLOYEE**:
 
 ```
